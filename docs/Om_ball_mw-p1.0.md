@@ -12,3 +12,5 @@ Based on Acceleration measurements only
 - Call the soundware function with one metric value for acceleration
 - Value is mapped to a range of 0 to 100
   
+### examples
+- [Example code](https://github.com/jpiersongd/soundmotion/tree/main/code)
