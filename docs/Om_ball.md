@@ -1,5 +1,7 @@
+# [SoundMotion](https://github.com/jpiersongd/soundmotion) 
+
 ### Background:
-This ball is for exercising to improve body health and mental awareness
+The Om ball is for exercising to improve body health and mental awareness
 
 ### The Om ball is our P1 prototype
 - Most simplistic
@@ -27,7 +29,8 @@ This ball is for exercising to improve body health and mental awareness
 - Om ball -sw-p1.2 - Given two inputs: a Volume value, and a Tone value, make an Om sound correlating in volume and tone
 - Om ball -sw-p1.3 - Given three inputs: a Volume value, a Tone value, and a Steadiness' value, make an Om sound correlating in volume, tone, and in number
 	
-	
+
+### Hardware projects:
 - 9 axis
 - Bluetooth Wearables
 - The ball
