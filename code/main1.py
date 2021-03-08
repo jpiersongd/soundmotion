@@ -1,3 +1,5 @@
+# Generate a random number series between 0 and 100 and call the soundware function
+
 import time
 from random import *
 
