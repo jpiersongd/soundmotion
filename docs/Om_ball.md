@@ -16,7 +16,7 @@ This ball is for exercising to improve body health and mental awareness
 
 
 ### Motionware features:
-- Om ball -mw-p1.0 - Emulate a single volume input value, call the Om soundware function with value correlating to volume.
+- [Om ball -mw-p1.0](https://github.com/jpiersongd/soundmotion/blob/main/docs/Om_ball_mw-p1.0.md) - Emulate a single volume input value, call the Om soundware function with value correlating to volume.
 - Om ball -mw-p1.1 - Measure acceleration, call the soundware function with a corresponding input value
 - Om ball -mw-p1.2 - Measure acceleration and roll, call the soundware function with a volume value, and a Tone value
 - Om ball mw-p1.3 -  Measure acceleration, roll and analyze 'steadiness', then call soundware function with the 3 values
