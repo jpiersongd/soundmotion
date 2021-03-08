@@ -23,7 +23,7 @@ This ball is for exercising to improve body health and mental awareness
 	
 
 ### Soundware projects:
-- Om ball -sw-p1.1 - Given a single volume input value, make an Om sound correlating in volume.
+- [Om ball -sw-p1.1](https://github.com/jpiersongd/soundmotion/blob/main/docs/Om_ball_sw_p.1.1.md) - Given a single volume input value, make an Om sound correlating in volume.
 - Om ball -sw-p1.2 - Given two inputs: a Volume value, and a Tone value, make an Om sound correlating in volume and tone
 - Om ball -sw-p1.3 - Given three inputs: a Volume value, a Tone value, and a Steadiness' value, make an Om sound correlating in volume, tone, and in number
 	
